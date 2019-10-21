@@ -1,0 +1,40 @@
+_repo: Homecoming_60515
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emsh
+    - Emsh, Ed
+    - Willer
+    - Emshwiller, Edmund A.
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Hidalgo, Miguel
+    gutenberg_agent_id: '50996'
+    url: http://www.gutenberg.org/2009/agents/50996
+description: ''
+gutenberg_issued: '2019-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcsh 'Veterans -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Homecoming
+url: http://www.gutenberg.org/ebooks/60515
